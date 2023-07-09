@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(
+        90deg,
+        #2030be 0%,
+        #119da4 100%
+    )
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+    text-align: center;
+    color: #fff;
+    text-decoration: underline;
+}
+.break-exercise{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    text-align: center;
+    justify-content: space-evenly;
+    color: #ccc
+}
+.session{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    text-align: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    color: #ccc
+}
